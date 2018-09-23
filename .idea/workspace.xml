@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f9a272f-55b4-42b5-84a1-c8aa861b47e3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="58" lean-forward="false" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="botlike.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/botlike.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="819">
+              <caret line="67" column="141" lean-forward="false" selection-start-line="67" selection-start-column="141" selection-end-line="67" selection-end-column="141" />
+              <folding>
+                <marker date="1495194340000" expanded="true" signature="76:144" ph="SELECT * FRO... botlike" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post_bot.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modun/post_bot.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1384">
+              <caret line="158" column="84" lean-forward="false" selection-start-line="158" selection-start-column="84" selection-end-line="158" selection-end-column="84" />
+              <folding>
+                <marker date="1495978944000" expanded="true" signature="1698:1766" ph="SELECT * FRO... botlike" />
+                <marker date="1495978944000" expanded="true" signature="1793:1968" ph="INSERT INTO `botlike`... " />
+                <marker date="1495978944000" expanded="true" signature="1991:2055" ph="UPDATE `thongke`... " />
+                <marker date="1495978944000" expanded="true" signature="2860:2928" ph="SELECT * FRO... botlike" />
+                <marker date="1495978944000" expanded="true" signature="3328:3467" ph="UPDATE `botlike`... " />
+                <marker date="1495978944000" expanded="true" signature="3894:3962" ph="SELECT * FRO... botlike" />
+                <marker date="1495978944000" expanded="true" signature="4368:4434" ph="DELETE FROM `botlike`... " />
+                <marker date="1495978944000" expanded="true" signature="4879:4949" ph="SELECT * FRO... botexlike" />
+                <marker date="1495978944000" expanded="true" signature="4976:5153" ph="INSERT INTO `botexlike`... " />
+                <marker date="1495978944000" expanded="true" signature="5176:5240" ph="UPDATE `thongke`... " />
+                <marker date="1495978944000" expanded="true" signature="6108:6178" ph="SELECT * FRO... botexlike" />
+                <marker date="1495978944000" expanded="true" signature="6614:6755" ph="UPDATE `botexlike`... " />
+                <marker date="1495978944000" expanded="true" signature="7209:7279" ph="SELECT * FRO... botexlike" />
+                <marker date="1495978944000" expanded="true" signature="7721:7789" ph="DELETE FROM `botexlike`... " />
+                <marker date="1495978944000" expanded="true" signature="8574:8646" ph="SELECT * FRO... botreaction" />
+                <marker date="1495978944000" expanded="true" signature="8673:8853" ph="INSERT INTO `botreaction`... " />
+                <marker date="1495978944000" expanded="true" signature="8876:8940" ph="UPDATE `thongke`... " />
+                <marker date="1495978944000" expanded="true" signature="10087:10159" ph="SELECT * FRO... botreaction" />
+                <marker date="1495978944000" expanded="true" signature="10571:10715" ph="UPDATE `botreaction`... " />
+                <marker date="1495978944000" expanded="true" signature="11145:11217" ph="SELECT * FRO... botreaction" />
+                <marker date="1495978944000" expanded="true" signature="11635:11705" ph="DELETE FROM `botreaction`... " />
+                <marker date="1495978944000" expanded="true" signature="12498:12572" ph="SELECT * FRO... botexreaction" />
+                <marker date="1495978944000" expanded="true" signature="12599:12812" ph="INSERT INTO `botexreaction`... " />
+                <marker date="1495978944000" expanded="true" signature="12835:12899" ph="UPDATE `thongke`... " />
+                <marker date="1495978944000" expanded="true" signature="14149:14223" ph="SELECT * FRO... botexreaction" />
+                <marker date="1495978944000" expanded="true" signature="14671:14849" ph="UPDATE `botexreaction`... " />
+                <marker date="1495978944000" expanded="true" signature="15346:15420" ph="SELECT * FRO... botexreaction" />
+                <marker date="1495978944000" expanded="true" signature="15874:15946" ph="DELETE FROM `botexreaction`... " />
+                <marker date="1495978944000" expanded="true" signature="16413:16485" ph="SELECT * FRO... botinteract" />
+                <marker date="1495978944000" expanded="true" signature="16512:16688" ph="INSERT INTO `botinteract`... " />
+                <marker date="1495978944000" expanded="true" signature="16711:16775" ph="UPDATE `thongke`... " />
+                <marker date="1495978944000" expanded="true" signature="18031:18103" ph="SELECT * FRO... botinteract" />
+                <marker date="1495978944000" expanded="true" signature="18523:18663" ph="UPDATE `botinteract`... " />
+                <marker date="1495978944000" expanded="true" signature="19523:19595" ph="SELECT * FRO... botinteract" />
+                <marker date="1495978944000" expanded="true" signature="20021:20091" ph="DELETE FROM `botinteract`... " />
+                <marker date="1495978944000" expanded="true" signature="20543:20614" ph="SELECT * FRO... botcomment" />
+                <marker date="1495978944000" expanded="true" signature="20641:20875" ph="INSERT INTO `botcomment`... " />
+                <marker date="1495978944000" expanded="true" signature="20898:20962" ph="UPDATE `thongke`... " />
+                <marker date="1495978944000" expanded="true" signature="22340:22411" ph="SELECT * FRO... botcomment" />
+                <marker date="1495978944000" expanded="true" signature="22831:23031" ph="UPDATE `botcomment`... " />
+                <marker date="1495978944000" expanded="true" signature="24013:24084" ph="SELECT * FRO... botcomment" />
+                <marker date="1495978944000" expanded="true" signature="24510:24579" ph="DELETE FROM `botcomment`... " />
+                <marker date="1495978944000" expanded="true" signature="25029:25099" ph="SELECT * FRO... botrelike" />
+                <marker date="1495978944000" expanded="true" signature="25126:25272" ph="INSERT INTO `botrelike`... " />
+                <marker date="1495978944000" expanded="true" signature="25295:25359" ph="UPDATE `thongke`... " />
+                <marker date="1495978944000" expanded="true" signature="26151:26221" ph="SELECT * FRO... botrelike" />
+                <marker date="1495978944000" expanded="true" signature="26637:26746" ph="UPDATE `botrelike`... " />
+                <marker date="1495978944000" expanded="true" signature="27144:27214" ph="SELECT * FRO... botrelike" />
+                <marker date="1495978944000" expanded="true" signature="27636:27704" ph="DELETE FROM `botrelike`... " />
+                <marker date="1495978944000" expanded="true" signature="28167:28236" ph="SELECT * FRO... botinbox" />
+                <marker date="1495978944000" expanded="true" signature="28263:28435" ph="INSERT INTO `botinbox`... " />
+                <marker date="1495978944000" expanded="true" signature="28458:28522" ph="UPDATE `thongke`... " />
+                <marker date="1495978944000" expanded="true" signature="29839:29908" ph="SELECT * FRO... botinbox" />
+                <marker date="1495978944000" expanded="true" signature="30356:30492" ph="UPDATE `botinbox`... " />
+                <marker date="1495978944000" expanded="true" signature="31385:31454" ph="SELECT * FRO... botinbox" />
+                <marker date="1495978944000" expanded="true" signature="31908:31975" ph="DELETE FROM `botinbox`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6375">
+              <caret line="425" column="9" lean-forward="false" selection-start-line="425" selection-start-column="9" selection-end-line="425" selection-end-column="9" />
+              <folding>
+                <marker date="1531328017134" expanded="true" signature="724:748" ph="SELECT * FRO... shoutbox" />
+                <marker date="1531328017134" expanded="true" signature="784:835" ph="SELECT * FRO... shoutbox" />
+                <marker date="1531328017134" expanded="true" signature="856:894" ph="DELETE FROM `user_vip`... " />
+                <marker date="1531328017134" expanded="true" signature="959:995" ph="DELETE FROM `online`... " />
+                <marker date="1531328017134" expanded="true" signature="1331:1396" ph="UPDATE `thongke`... " />
+                <marker date="1531328017134" expanded="true" signature="2849:2914" ph="SELECT * FRO... user" />
+                <marker date="1531328017134" expanded="true" signature="2952:3305" ph="INSERT INTO `user`... " />
+                <marker date="1531328017134" expanded="true" signature="3327:3394" ph="UPDATE `thongke`... " />
+                <marker date="1531328017134" expanded="true" signature="3437:3688" ph="UPDATE `user`... " />
+                <marker date="1531328017134" expanded="true" signature="3729:3795" ph="SELECT * FRO... token" />
+                <marker date="1531328017134" expanded="true" signature="3834:3976" ph="INSERT INTO `token`... " />
+                <marker date="1531328017134" expanded="true" signature="4020:4159" ph="UPDATE `token`... " />
+                <marker date="1531328017134" expanded="true" signature="5436:5503" ph="SELECT * FRO... online" />
+                <marker date="1531328017134" expanded="true" signature="5541:5672" ph="INSERT INTO `online`... " />
+                <marker date="1531328017134" expanded="true" signature="5715:5809" ph="UPDATE `online`... " />
+                <marker date="1531328017134" expanded="true" signature="6028:6097" ph="DELETE FROM `user_block`... " />
+                <marker date="1531328017134" expanded="true" signature="6124:6217" ph="SELECT * FRO... shoutbox_log" />
+                <marker date="1531328017134" expanded="true" signature="28016:28038" ph="SELECT * FRO... action" />
+                <marker date="1531328017134" expanded="true" signature="28075:28125" ph="SELECT * FRO... action" />
+                <marker date="1531328017134" expanded="true" signature="29353:29377" ph="SELECT * FRO... user_vip" />
+                <marker date="1531328017134" expanded="true" signature="29462:29514" ph="SELECT * FRO... user_vip" />
+                <marker date="1531328017134" expanded="true" signature="29943:29967" ph="SELECT * FRO... user_vip" />
+                <marker date="1531328017134" expanded="true" signature="30774:30794" ph="SELECT * FRO... user" />
+                <marker date="1531328017134" expanded="true" signature="30879:30927" ph="SELECT * FRO... user" />
+                <marker date="1531328017134" expanded="true" signature="30968:31033" ph="SELECT * FRO... user_vip" />
+                <marker date="1531328017134" expanded="true" signature="31581:31601" ph="SELECT * FRO... user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="autolike.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/files/autolike.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="145" lean-forward="false" selection-start-line="36" selection-start-column="145" selection-end-line="36" selection-end-column="145" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5415">
+              <caret line="361" column="13" lean-forward="false" selection-start-line="361" selection-start-column="13" selection-end-line="361" selection-end-column="13" />
+              <folding>
+                <marker date="1531039674173" expanded="true" signature="7810:7842" ph="..." />
+                <marker date="1531039674173" expanded="true" signature="10699:10731" ph="..." />
+                <marker date="1531039674173" expanded="true" signature="14064:14096" ph="..." />
+                <marker date="1531039674173" expanded="true" signature="17426:17458" ph="..." />
+                <marker date="1531039674173" expanded="true" signature="20789:20821" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post_auto.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modun/post_auto.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1470">
+              <caret line="98" column="76" lean-forward="false" selection-start-line="98" selection-start-column="76" selection-end-line="98" selection-end-column="76" />
+              <folding>
+                <marker date="1531209339440" expanded="true" signature="1084:1153" ph="DELETE FROM `user_block`... " />
+                <marker date="1531209339440" expanded="true" signature="1349:1393" ph="SELECT * FRO... token" />
+                <marker date="1531209339440" expanded="true" signature="1640:1775" ph="INSERT INTO `user_block`... " />
+                <marker date="1531209339440" expanded="true" signature="1796:2055" ph="INSERT INTO `action`... " />
+                <marker date="1531209339440" expanded="true" signature="2076:2166" ph="UPDATE `user`... " />
+                <marker date="1531209339440" expanded="true" signature="2187:2252" ph="UPDATE `thongke`... " />
+                <marker date="1531209339440" expanded="true" signature="3098:3142" ph="SELECT * FRO... token" />
+                <marker date="1531209339440" expanded="true" signature="3403:3538" ph="INSERT INTO `user_block`... " />
+                <marker date="1531209339440" expanded="true" signature="3559:3849" ph="INSERT INTO `action`... " />
+                <marker date="1531209339440" expanded="true" signature="3870:3960" ph="UPDATE `user`... " />
+                <marker date="1531209339440" expanded="true" signature="3981:4046" ph="UPDATE `thongke`... " />
+                <marker date="1531209339440" expanded="true" signature="4766:4810" ph="SELECT * FRO... token" />
+                <marker date="1531209339440" expanded="true" signature="5168:5303" ph="INSERT INTO `user_block`... " />
+                <marker date="1531209339440" expanded="true" signature="5324:5593" ph="INSERT INTO `action`... " />
+                <marker date="1531209339440" expanded="true" signature="5614:5704" ph="UPDATE `user`... " />
+                <marker date="1531209339440" expanded="true" signature="5725:5790" ph="UPDATE `thongke`... " />
+                <marker date="1531209339440" expanded="true" signature="6349:6393" ph="SELECT * FRO... token" />
+                <marker date="1531209339440" expanded="true" signature="6627:6762" ph="INSERT INTO `user_block`... " />
+                <marker date="1531209339440" expanded="true" signature="6783:7044" ph="INSERT INTO `action`... " />
+                <marker date="1531209339440" expanded="true" signature="7065:7155" ph="UPDATE `user`... " />
+                <marker date="1531209339440" expanded="true" signature="7176:7241" ph="UPDATE `thongke`... " />
+                <marker date="1531209339440" expanded="true" signature="7775:7819" ph="SELECT * FRO... token" />
+                <marker date="1531209339440" expanded="true" signature="8029:8164" ph="INSERT INTO `user_block`... " />
+                <marker date="1531209339440" expanded="true" signature="8185:8452" ph="INSERT INTO `action`... " />
+                <marker date="1531209339440" expanded="true" signature="8473:8563" ph="UPDATE `user`... " />
+                <marker date="1531209339440" expanded="true" signature="8584:8649" ph="UPDATE `thongke`... " />
+                <marker date="1531209339440" expanded="true" signature="9202:9246" ph="SELECT * FRO... token" />
+                <marker date="1531209339440" expanded="true" signature="9459:9594" ph="INSERT INTO `user_block`... " />
+                <marker date="1531209339440" expanded="true" signature="9615:9880" ph="INSERT INTO `action`... " />
+                <marker date="1531209339440" expanded="true" signature="9901:9991" ph="UPDATE `user`... " />
+                <marker date="1531209339440" expanded="true" signature="10012:10077" ph="UPDATE `thongke`... " />
+                <marker date="1531209339440" expanded="true" signature="10888:10932" ph="SELECT * FRO... token" />
+                <marker date="1531209339440" expanded="true" signature="11138:11273" ph="INSERT INTO `user_block`... " />
+                <marker date="1531209339440" expanded="true" signature="11294:11563" ph="INSERT INTO `action`... " />
+                <marker date="1531209339440" expanded="true" signature="11584:11674" ph="UPDATE `user`... " />
+                <marker date="1531209339440" expanded="true" signature="11695:11760" ph="UPDATE `thongke`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="work.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/work.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1635">
+              <caret line="109" column="20" lean-forward="false" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="20" />
+              <folding>
+                <marker date="1497326688000" expanded="true" signature="10349:10397" ph="SELECT * FRO... user" />
+                <marker date="1497326688000" expanded="true" signature="34127:34214" ph="..." />
+                <marker date="1497326688000" expanded="true" signature="34244:34304" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>DOMAIN</find>
+      <find>Lấy Token</find>
+      <find>LỖI mà chủ sở hữu trang web sẽ thấy</find>
+      <find>token_default</find>
+      <find>data-site</find>
+      <find>auto-like.ken</find>
+      <find>Bot Like</find>
+      <find>btn btn-block btn-success</find>
+      <find>Vậy Tôi Phải Làm Như Thế Nào Để Sử Dụng Nó?</find>
+      <find>&lt;!-- END CODE --&gt;</find>
+      <find>session</find>
+      <find>đăng nhập</find>
+      <find>loading</find>
+      <find>$_SESSION['token_default']</find>
+      <find>auto-like</find>
+      <find>Auto Like</find>
+      <find>$_GET['type']</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$_GET['type2']</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/core</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/includes/footer.php" />
+        <option value="$PROJECT_DIR$/core/config.php" />
+        <option value="$PROJECT_DIR$/core/autoload.php" />
+        <option value="$PROJECT_DIR$/files/autolike.php" />
+        <option value="$PROJECT_DIR$/includes/header.php" />
+        <option value="$PROJECT_DIR$/files/autofriend.php" />
+        <option value="$PROJECT_DIR$/modun/post_auto.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="303" />
+    <option name="width" value="1280" />
+    <option name="height" value="727" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HotLike.net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HotLike.net" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="HotLike.net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HotLike.net" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="files" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="HotLike.net" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HotLike.net" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="modun" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f9a272f-55b4-42b5-84a1-c8aa861b47e3" name="Default" comment="" />
+      <created>1525362515588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525362515588</updated>
+      <workItem from="1525362516848" duration="383000" />
+      <workItem from="1530806724409" duration="468000" />
+      <workItem from="1531038263776" duration="5744000" />
+      <workItem from="1531194097098" duration="268000" />
+      <workItem from="1531207581685" duration="2144000" />
+      <workItem from="1531327595159" duration="651000" />
+      <workItem from="1535126747975" duration="616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10274000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="303" width="1280" height="727" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21001616" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6375">
+          <caret line="425" column="9" lean-forward="true" selection-start-line="425" selection-start-column="9" selection-end-line="425" selection-end-column="9" />
+          <folding>
+            <marker date="1531328017134" expanded="true" signature="724:748" ph="SELECT * FRO... shoutbox" />
+            <marker date="1531328017134" expanded="true" signature="784:835" ph="SELECT * FRO... shoutbox" />
+            <marker date="1531328017134" expanded="true" signature="856:894" ph="DELETE FROM `user_vip`... " />
+            <marker date="1531328017134" expanded="true" signature="959:995" ph="DELETE FROM `online`... " />
+            <marker date="1531328017134" expanded="true" signature="1331:1396" ph="UPDATE `thongke`... " />
+            <marker date="1531328017134" expanded="true" signature="2849:2914" ph="SELECT * FRO... user" />
+            <marker date="1531328017134" expanded="true" signature="2952:3305" ph="INSERT INTO `user`... " />
+            <marker date="1531328017134" expanded="true" signature="3327:3394" ph="UPDATE `thongke`... " />
+            <marker date="1531328017134" expanded="true" signature="3437:3688" ph="UPDATE `user`... " />
+            <marker date="1531328017134" expanded="true" signature="3729:3795" ph="SELECT * FRO... token" />
+            <marker date="1531328017134" expanded="true" signature="3834:3976" ph="INSERT INTO `token`... " />
+            <marker date="1531328017134" expanded="true" signature="4020:4159" ph="UPDATE `token`... " />
+            <marker date="1531328017134" expanded="true" signature="5436:5503" ph="SELECT * FRO... online" />
+            <marker date="1531328017134" expanded="true" signature="5541:5672" ph="INSERT INTO `online`... " />
+            <marker date="1531328017134" expanded="true" signature="5715:5809" ph="UPDATE `online`... " />
+            <marker date="1531328017134" expanded="true" signature="6028:6097" ph="DELETE FROM `user_block`... " />
+            <marker date="1531328017134" expanded="true" signature="6124:6217" ph="SELECT * FRO... shoutbox_log" />
+            <marker date="1531328017134" expanded="true" signature="28016:28038" ph="SELECT * FRO... action" />
+            <marker date="1531328017134" expanded="true" signature="28075:28125" ph="SELECT * FRO... action" />
+            <marker date="1531328017134" expanded="true" signature="29353:29377" ph="SELECT * FRO... user_vip" />
+            <marker date="1531328017134" expanded="true" signature="29462:29514" ph="SELECT * FRO... user_vip" />
+            <marker date="1531328017134" expanded="true" signature="29943:29967" ph="SELECT * FRO... user_vip" />
+            <marker date="1531328017134" expanded="true" signature="30774:30794" ph="SELECT * FRO... user" />
+            <marker date="1531328017134" expanded="true" signature="30879:30927" ph="SELECT * FRO... user" />
+            <marker date="1531328017134" expanded="true" signature="30968:31033" ph="SELECT * FRO... user_vip" />
+            <marker date="1531328017134" expanded="true" signature="31581:31601" ph="SELECT * FRO... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="58" lean-forward="false" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/autolike.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="145" lean-forward="false" selection-start-line="36" selection-start-column="145" selection-end-line="36" selection-end-column="145" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5415">
+          <caret line="361" column="13" lean-forward="false" selection-start-line="361" selection-start-column="13" selection-end-line="361" selection-end-column="13" />
+          <folding>
+            <marker date="1531039674173" expanded="true" signature="7810:7842" ph="..." />
+            <marker date="1531039674173" expanded="true" signature="10699:10731" ph="..." />
+            <marker date="1531039674173" expanded="true" signature="14064:14096" ph="..." />
+            <marker date="1531039674173" expanded="true" signature="17426:17458" ph="..." />
+            <marker date="1531039674173" expanded="true" signature="20789:20821" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modun/post_auto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="98" column="76" lean-forward="false" selection-start-line="98" selection-start-column="76" selection-end-line="98" selection-end-column="76" />
+          <folding>
+            <marker date="1531209339440" expanded="true" signature="1084:1153" ph="DELETE FROM `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="1349:1393" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="1640:1775" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="1796:2055" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="2076:2166" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="2187:2252" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="3098:3142" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="3403:3538" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="3559:3849" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="3870:3960" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="3981:4046" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="4766:4810" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="5168:5303" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="5324:5593" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="5614:5704" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="5725:5790" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="6349:6393" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="6627:6762" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="6783:7044" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="7065:7155" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="7176:7241" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="7775:7819" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="8029:8164" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="8185:8452" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="8473:8563" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="8584:8649" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="9202:9246" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="9459:9594" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="9615:9880" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="9901:9991" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="10012:10077" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="10888:10932" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="11138:11273" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="11294:11563" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="11584:11674" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="11695:11760" ph="UPDATE `thongke`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/work.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1635">
+          <caret line="109" column="20" lean-forward="false" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="20" />
+          <folding>
+            <marker date="1497326688000" expanded="true" signature="10349:10397" ph="SELECT * FRO... user" />
+            <marker date="1497326688000" expanded="true" signature="34127:34214" ph="..." />
+            <marker date="1497326688000" expanded="true" signature="34244:34304" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modun/post_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="17" lean-forward="true" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/autofriend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="148" lean-forward="true" selection-start-line="36" selection-start-column="148" selection-end-line="36" selection-end-column="148" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6870">
+          <caret line="458" column="13" lean-forward="false" selection-start-line="458" selection-start-column="13" selection-end-line="458" selection-end-column="13" />
+          <folding>
+            <marker date="1531039674173" expanded="true" signature="7810:7842" ph="..." />
+            <marker date="1531039674173" expanded="true" signature="10699:10731" ph="..." />
+            <marker date="1531039674173" expanded="true" signature="14064:14096" ph="..." />
+            <marker date="1531039674173" expanded="true" signature="17426:17458" ph="..." />
+            <marker date="1531039674173" expanded="true" signature="20789:20821" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/work.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1635">
+          <caret line="109" column="20" lean-forward="false" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="20" />
+          <folding>
+            <marker date="1497326688000" expanded="true" signature="10349:10397" ph="SELECT * FRO... user" />
+            <marker date="1497326688000" expanded="true" signature="34127:34214" ph="..." />
+            <marker date="1497326688000" expanded="true" signature="34244:34304" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modun/post_auto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="98" column="76" lean-forward="false" selection-start-line="98" selection-start-column="76" selection-end-line="98" selection-end-column="76" />
+          <folding>
+            <marker date="1531209339440" expanded="true" signature="1084:1153" ph="DELETE FROM `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="1349:1393" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="1640:1775" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="1796:2055" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="2076:2166" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="2187:2252" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="3098:3142" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="3403:3538" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="3559:3849" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="3870:3960" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="3981:4046" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="4766:4810" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="5168:5303" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="5324:5593" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="5614:5704" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="5725:5790" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="6349:6393" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="6627:6762" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="6783:7044" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="7065:7155" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="7176:7241" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="7775:7819" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="8029:8164" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="8185:8452" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="8473:8563" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="8584:8649" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="9202:9246" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="9459:9594" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="9615:9880" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="9901:9991" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="10012:10077" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="10888:10932" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="11138:11273" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="11294:11563" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="11584:11674" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="11695:11760" ph="UPDATE `thongke`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modun/post_bot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/botlike.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="67" column="141" lean-forward="false" selection-start-line="67" selection-start-column="141" selection-end-line="67" selection-end-column="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7455">
+          <caret line="497" column="13" lean-forward="false" selection-start-line="497" selection-start-column="13" selection-end-line="497" selection-end-column="13" />
+          <folding>
+            <marker date="1531039674173" expanded="true" signature="7810:7842" ph="..." />
+            <marker date="1531039674173" expanded="true" signature="10699:10731" ph="..." />
+            <marker date="1531039674173" expanded="true" signature="14064:14096" ph="..." />
+            <marker date="1531039674173" expanded="true" signature="17426:17458" ph="..." />
+            <marker date="1531039674173" expanded="true" signature="20789:20821" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modun/post_bot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guide.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guide.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/500_icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQL.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Guide.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="98" lean-forward="true" selection-start-line="15" selection-start-column="98" selection-end-line="15" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/define.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="660" column="9" lean-forward="false" selection-start-line="660" selection-start-column="9" selection-end-line="660" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/access.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/Core/Core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="323" column="9" lean-forward="false" selection-start-line="323" selection-start-column="9" selection-end-line="323" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="65" column="39" lean-forward="true" selection-start-line="65" selection-start-column="39" selection-end-line="65" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modun/post_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/autofriend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="148" lean-forward="false" selection-start-line="36" selection-start-column="148" selection-end-line="36" selection-end-column="148" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/work.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1635">
+          <caret line="109" column="20" lean-forward="false" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="20" />
+          <folding>
+            <marker date="1497326688000" expanded="true" signature="10349:10397" ph="SELECT * FRO... user" />
+            <marker date="1497326688000" expanded="true" signature="34127:34214" ph="..." />
+            <marker date="1497326688000" expanded="true" signature="34244:34304" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/autocomment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5415">
+          <caret line="361" column="13" lean-forward="false" selection-start-line="361" selection-start-column="13" selection-end-line="361" selection-end-column="13" />
+          <folding>
+            <marker date="1531039674173" expanded="true" signature="7810:7842" ph="..." />
+            <marker date="1531039674173" expanded="true" signature="10699:10731" ph="..." />
+            <marker date="1531039674173" expanded="true" signature="14064:14096" ph="..." />
+            <marker date="1531039674173" expanded="true" signature="17426:17458" ph="..." />
+            <marker date="1531039674173" expanded="true" signature="20789:20821" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modun/post_auto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1470">
+          <caret line="98" column="76" lean-forward="false" selection-start-line="98" selection-start-column="76" selection-end-line="98" selection-end-column="76" />
+          <folding>
+            <marker date="1531209339440" expanded="true" signature="1084:1153" ph="DELETE FROM `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="1349:1393" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="1640:1775" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="1796:2055" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="2076:2166" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="2187:2252" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="3098:3142" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="3403:3538" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="3559:3849" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="3870:3960" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="3981:4046" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="4766:4810" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="5168:5303" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="5324:5593" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="5614:5704" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="5725:5790" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="6349:6393" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="6627:6762" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="6783:7044" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="7065:7155" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="7176:7241" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="7775:7819" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="8029:8164" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="8185:8452" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="8473:8563" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="8584:8649" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="9202:9246" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="9459:9594" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="9615:9880" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="9901:9991" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="10012:10077" ph="UPDATE `thongke`... " />
+            <marker date="1531209339440" expanded="true" signature="10888:10932" ph="SELECT * FRO... token" />
+            <marker date="1531209339440" expanded="true" signature="11138:11273" ph="INSERT INTO `user_block`... " />
+            <marker date="1531209339440" expanded="true" signature="11294:11563" ph="INSERT INTO `action`... " />
+            <marker date="1531209339440" expanded="true" signature="11584:11674" ph="UPDATE `user`... " />
+            <marker date="1531209339440" expanded="true" signature="11695:11760" ph="UPDATE `thongke`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/autolike.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="145" lean-forward="false" selection-start-line="36" selection-start-column="145" selection-end-line="36" selection-end-column="145" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6375">
+          <caret line="425" column="9" lean-forward="false" selection-start-line="425" selection-start-column="9" selection-end-line="425" selection-end-column="9" />
+          <folding>
+            <marker date="1531328017134" expanded="true" signature="724:748" ph="SELECT * FRO... shoutbox" />
+            <marker date="1531328017134" expanded="true" signature="784:835" ph="SELECT * FRO... shoutbox" />
+            <marker date="1531328017134" expanded="true" signature="856:894" ph="DELETE FROM `user_vip`... " />
+            <marker date="1531328017134" expanded="true" signature="959:995" ph="DELETE FROM `online`... " />
+            <marker date="1531328017134" expanded="true" signature="1331:1396" ph="UPDATE `thongke`... " />
+            <marker date="1531328017134" expanded="true" signature="2849:2914" ph="SELECT * FRO... user" />
+            <marker date="1531328017134" expanded="true" signature="2952:3305" ph="INSERT INTO `user`... " />
+            <marker date="1531328017134" expanded="true" signature="3327:3394" ph="UPDATE `thongke`... " />
+            <marker date="1531328017134" expanded="true" signature="3437:3688" ph="UPDATE `user`... " />
+            <marker date="1531328017134" expanded="true" signature="3729:3795" ph="SELECT * FRO... token" />
+            <marker date="1531328017134" expanded="true" signature="3834:3976" ph="INSERT INTO `token`... " />
+            <marker date="1531328017134" expanded="true" signature="4020:4159" ph="UPDATE `token`... " />
+            <marker date="1531328017134" expanded="true" signature="5436:5503" ph="SELECT * FRO... online" />
+            <marker date="1531328017134" expanded="true" signature="5541:5672" ph="INSERT INTO `online`... " />
+            <marker date="1531328017134" expanded="true" signature="5715:5809" ph="UPDATE `online`... " />
+            <marker date="1531328017134" expanded="true" signature="6028:6097" ph="DELETE FROM `user_block`... " />
+            <marker date="1531328017134" expanded="true" signature="6124:6217" ph="SELECT * FRO... shoutbox_log" />
+            <marker date="1531328017134" expanded="true" signature="28016:28038" ph="SELECT * FRO... action" />
+            <marker date="1531328017134" expanded="true" signature="28075:28125" ph="SELECT * FRO... action" />
+            <marker date="1531328017134" expanded="true" signature="29353:29377" ph="SELECT * FRO... user_vip" />
+            <marker date="1531328017134" expanded="true" signature="29462:29514" ph="SELECT * FRO... user_vip" />
+            <marker date="1531328017134" expanded="true" signature="29943:29967" ph="SELECT * FRO... user_vip" />
+            <marker date="1531328017134" expanded="true" signature="30774:30794" ph="SELECT * FRO... user" />
+            <marker date="1531328017134" expanded="true" signature="30879:30927" ph="SELECT * FRO... user" />
+            <marker date="1531328017134" expanded="true" signature="30968:31033" ph="SELECT * FRO... user_vip" />
+            <marker date="1531328017134" expanded="true" signature="31581:31601" ph="SELECT * FRO... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="58" lean-forward="false" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/botlike.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="67" column="141" lean-forward="false" selection-start-line="67" selection-start-column="141" selection-end-line="67" selection-end-column="141" />
+          <folding>
+            <marker date="1495194340000" expanded="true" signature="76:144" ph="SELECT * FRO... botlike" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modun/post_bot.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1384">
+          <caret line="158" column="84" lean-forward="false" selection-start-line="158" selection-start-column="84" selection-end-line="158" selection-end-column="84" />
+          <folding>
+            <marker date="1495978944000" expanded="true" signature="1698:1766" ph="SELECT * FRO... botlike" />
+            <marker date="1495978944000" expanded="true" signature="1793:1968" ph="INSERT INTO `botlike`... " />
+            <marker date="1495978944000" expanded="true" signature="1991:2055" ph="UPDATE `thongke`... " />
+            <marker date="1495978944000" expanded="true" signature="2860:2928" ph="SELECT * FRO... botlike" />
+            <marker date="1495978944000" expanded="true" signature="3328:3467" ph="UPDATE `botlike`... " />
+            <marker date="1495978944000" expanded="true" signature="3894:3962" ph="SELECT * FRO... botlike" />
+            <marker date="1495978944000" expanded="true" signature="4368:4434" ph="DELETE FROM `botlike`... " />
+            <marker date="1495978944000" expanded="true" signature="4879:4949" ph="SELECT * FRO... botexlike" />
+            <marker date="1495978944000" expanded="true" signature="4976:5153" ph="INSERT INTO `botexlike`... " />
+            <marker date="1495978944000" expanded="true" signature="5176:5240" ph="UPDATE `thongke`... " />
+            <marker date="1495978944000" expanded="true" signature="6108:6178" ph="SELECT * FRO... botexlike" />
+            <marker date="1495978944000" expanded="true" signature="6614:6755" ph="UPDATE `botexlike`... " />
+            <marker date="1495978944000" expanded="true" signature="7209:7279" ph="SELECT * FRO... botexlike" />
+            <marker date="1495978944000" expanded="true" signature="7721:7789" ph="DELETE FROM `botexlike`... " />
+            <marker date="1495978944000" expanded="true" signature="8574:8646" ph="SELECT * FRO... botreaction" />
+            <marker date="1495978944000" expanded="true" signature="8673:8853" ph="INSERT INTO `botreaction`... " />
+            <marker date="1495978944000" expanded="true" signature="8876:8940" ph="UPDATE `thongke`... " />
+            <marker date="1495978944000" expanded="true" signature="10087:10159" ph="SELECT * FRO... botreaction" />
+            <marker date="1495978944000" expanded="true" signature="10571:10715" ph="UPDATE `botreaction`... " />
+            <marker date="1495978944000" expanded="true" signature="11145:11217" ph="SELECT * FRO... botreaction" />
+            <marker date="1495978944000" expanded="true" signature="11635:11705" ph="DELETE FROM `botreaction`... " />
+            <marker date="1495978944000" expanded="true" signature="12498:12572" ph="SELECT * FRO... botexreaction" />
+            <marker date="1495978944000" expanded="true" signature="12599:12812" ph="INSERT INTO `botexreaction`... " />
+            <marker date="1495978944000" expanded="true" signature="12835:12899" ph="UPDATE `thongke`... " />
+            <marker date="1495978944000" expanded="true" signature="14149:14223" ph="SELECT * FRO... botexreaction" />
+            <marker date="1495978944000" expanded="true" signature="14671:14849" ph="UPDATE `botexreaction`... " />
+            <marker date="1495978944000" expanded="true" signature="15346:15420" ph="SELECT * FRO... botexreaction" />
+            <marker date="1495978944000" expanded="true" signature="15874:15946" ph="DELETE FROM `botexreaction`... " />
+            <marker date="1495978944000" expanded="true" signature="16413:16485" ph="SELECT * FRO... botinteract" />
+            <marker date="1495978944000" expanded="true" signature="16512:16688" ph="INSERT INTO `botinteract`... " />
+            <marker date="1495978944000" expanded="true" signature="16711:16775" ph="UPDATE `thongke`... " />
+            <marker date="1495978944000" expanded="true" signature="18031:18103" ph="SELECT * FRO... botinteract" />
+            <marker date="1495978944000" expanded="true" signature="18523:18663" ph="UPDATE `botinteract`... " />
+            <marker date="1495978944000" expanded="true" signature="19523:19595" ph="SELECT * FRO... botinteract" />
+            <marker date="1495978944000" expanded="true" signature="20021:20091" ph="DELETE FROM `botinteract`... " />
+            <marker date="1495978944000" expanded="true" signature="20543:20614" ph="SELECT * FRO... botcomment" />
+            <marker date="1495978944000" expanded="true" signature="20641:20875" ph="INSERT INTO `botcomment`... " />
+            <marker date="1495978944000" expanded="true" signature="20898:20962" ph="UPDATE `thongke`... " />
+            <marker date="1495978944000" expanded="true" signature="22340:22411" ph="SELECT * FRO... botcomment" />
+            <marker date="1495978944000" expanded="true" signature="22831:23031" ph="UPDATE `botcomment`... " />
+            <marker date="1495978944000" expanded="true" signature="24013:24084" ph="SELECT * FRO... botcomment" />
+            <marker date="1495978944000" expanded="true" signature="24510:24579" ph="DELETE FROM `botcomment`... " />
+            <marker date="1495978944000" expanded="true" signature="25029:25099" ph="SELECT * FRO... botrelike" />
+            <marker date="1495978944000" expanded="true" signature="25126:25272" ph="INSERT INTO `botrelike`... " />
+            <marker date="1495978944000" expanded="true" signature="25295:25359" ph="UPDATE `thongke`... " />
+            <marker date="1495978944000" expanded="true" signature="26151:26221" ph="SELECT * FRO... botrelike" />
+            <marker date="1495978944000" expanded="true" signature="26637:26746" ph="UPDATE `botrelike`... " />
+            <marker date="1495978944000" expanded="true" signature="27144:27214" ph="SELECT * FRO... botrelike" />
+            <marker date="1495978944000" expanded="true" signature="27636:27704" ph="DELETE FROM `botrelike`... " />
+            <marker date="1495978944000" expanded="true" signature="28167:28236" ph="SELECT * FRO... botinbox" />
+            <marker date="1495978944000" expanded="true" signature="28263:28435" ph="INSERT INTO `botinbox`... " />
+            <marker date="1495978944000" expanded="true" signature="28458:28522" ph="UPDATE `thongke`... " />
+            <marker date="1495978944000" expanded="true" signature="29839:29908" ph="SELECT * FRO... botinbox" />
+            <marker date="1495978944000" expanded="true" signature="30356:30492" ph="UPDATE `botinbox`... " />
+            <marker date="1495978944000" expanded="true" signature="31385:31454" ph="SELECT * FRO... botinbox" />
+            <marker date="1495978944000" expanded="true" signature="31908:31975" ph="DELETE FROM `botinbox`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+﻿Facebook: https://fb.com/Emelja69
+Gmail: email@emelja.com
+Lưu ý: Code này chạy trên WebServer Apache
+
+Vui Lòng Cấu Hình Các Bước Sau
+Bước 1: Cấu Hình Database Tại core/config.php (Rất Cần Thiết)
+Bước 2: Cấu Hình Thông Tin Tại core/autoload.php (Rất Cần Thiết)
+Bước 3: Cấu Hình Google Captcha Tại index.php (Rất Cần Thiết)
+Bước 4: Cấu Hình Nạp Thẻ Tại modun/post_vip.php (Muốn Nạp Thẻ Thì Cấu Hình)
+Bước 5: Có 2 Cách Cài Đặt Database:
+Sau Khi Cấu Hình Database
+	Cách 1: Nếu Đã Cấu Hình Thông Tin (Bước 2) Chạy Đường Dẫn Domain/core/install.php Để Cài
+	Cách 2: Nếu Chưa Cấu Hình Thông Tin (Bước 2) Vui Lòng Mở File SQL.sql Cấu Hình Đoạn Thông
+	Tin Phía Dưới Rồi Import Vào Database. (Dành Cho Mấy Thanh Niên Rảnh Háng Muốn Thử Tài Database)
+
+Lưu Ý: Code chưa hoàn tất 100% những phần như Giới Thiệu, Hướng Dẫn, Lỗi Thường Gặp, Điều Khoản...
